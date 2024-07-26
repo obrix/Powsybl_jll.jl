@@ -1,0 +1,20 @@
+[[Powsybl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "125b4fe4398dfe9aa6850c134307facc71a7de7f"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[Powsybl.download]]
+    sha256 = "2445246f4b74003b56ca094c5f5792e25013074303b8ea17c267568edd1e72d2"
+    url = "https://github.com/obrix/Powsybl_jll.jl/releases/download/Powsybl-v0.1.0+0/Powsybl.v0.1.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[Powsybl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3cae2f5056b173ecca92b4d6b078304e07cdab1b"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[Powsybl.download]]
+    sha256 = "4631dddc33f4401ed6b2276e379eb191741434a61fc14832dd679d3180df0907"
+    url = "https://github.com/obrix/Powsybl_jll.jl/releases/download/Powsybl-v0.1.0+0/Powsybl.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
